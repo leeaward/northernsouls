@@ -1686,9 +1686,11 @@ body {
   .cid-qTkzRZLJNu .navbar-expand {
     flex-direction: column;
   }
+  /*
   .cid-qTkzRZLJNu img {
     height: 3.8rem !important;
   }
+  */
   .cid-qTkzRZLJNu .btn {
     display: flex;
   }
